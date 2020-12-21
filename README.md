@@ -14,7 +14,7 @@ Para executar arquivos ".php" você deve instalar o php em sua máquina:
 sudo apt-get install 
 ````
 
---No Windows a instalação passa a ser um pouco mais complicada, mas você pode instalar seguindo esse tutorial:
+--No Windows a instalação passa a ser um pouco mais complicada, mas você pode instalar seguindo este tutorial:
 https://blog.schoolofnet.com/como-instalar-o-php-no-windows-do-jeito-certo-e-usar-o-servidor-embutido/
 
 
